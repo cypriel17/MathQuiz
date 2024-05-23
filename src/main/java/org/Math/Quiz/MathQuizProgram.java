@@ -1,4 +1,4 @@
-package org.codSoft.Quiz;
+package org.Math.Quiz;
 
 import javax.swing.*;
 import java.awt.*;

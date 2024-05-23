@@ -1,4 +1,4 @@
-import org.codSoft.Quiz.MathQuizProgram;
+import org.Math.Quiz.MathQuizProgram;
 import org.junit.Before;
 import org.junit.Test;
 
